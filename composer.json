@@ -1,0 +1,19 @@
+{
+    "name": "china-zhou/retired-ganxiusuo",
+    "description": "retired test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ChinaZhou\\RetiredGanxiusuo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "china-zhou"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
