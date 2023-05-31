@@ -12,10 +12,8 @@ namespace zhou\src;
 
 class Sms
 {
-    protected $CorpID = 'KSD6522308';
-    protected $Pwd = '123456a';
-//    protected $CorpID = 'YYKJ009936';
-//    protected $Pwd = '123456';
+    protected $CorpID = '';
+    protected $Pwd = '';
     protected $Mobile;
     protected $Content;
     protected $SendTime = null;
